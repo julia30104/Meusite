@@ -1,6 +1,7 @@
 body {
     color: black;
     background-color: lightpink;
+    font-style: italic;
 }
 
 ul{
@@ -8,4 +9,5 @@ ul{
     justify-content: space-between;
     list-style-type: none;
     align-items: center;
+    padding: 16px;
 }

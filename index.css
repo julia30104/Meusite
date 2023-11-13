@@ -2,7 +2,10 @@ body {
     color: black;
     background-color: lightpink;
     font-style: italic;
+    width: 199px;
+    height: 194px;
 }
+
 
 ul{
     display: flex;

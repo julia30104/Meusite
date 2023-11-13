@@ -22,3 +22,7 @@ a {
 h1{
     color: white
 }
+
+.container{
+    padding: 0px 50px;
+}
